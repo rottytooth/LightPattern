@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <FStops>
+    <FStop code="8" aperture="1.8"/>
+    <FStop code="24" aperture="2.0"/>
+    <FStop code="27" aperture="2.2"/>
+    <FStop code="32" aperture="2.8"/>
+    <FStop code="35" aperture="3.2"/>
+    <FStop code="36" aperture="3.5"/>
+    <FStop code="40" aperture="4.0"/>
+    <FStop code="43" aperture="4.5"/>
+    <FStop code="44" aperture="5.0"/>
+    <FStop code="48" aperture="5.6"/>
+    <FStop code="51" aperture="6.3"/>
+    <FStop code="52" aperture="7.1"/>
+    <FStop code="59" aperture="9.0"/>
+    <FStop code="60" aperture="10.0"/>
+    <FStop code="64" aperture="11.0"/>
+    <FStop code="67" aperture="13.0"/>
+    <FStop code="68" aperture="14.0"/>
+    <FStop code="72" aperture="16.0"/>
+    <FStop code="75" aperture="18.0"/>
+    <FStop code="76" aperture="20.0"/>
+    <FStop code="80" aperture="22.0"/>
+  </FStops>
+  <ShutterSpeeds>
+    <ShutterSpeed code="0" seconds="30.0" inverse="false"/>
+    <ShutterSpeed code="19" seconds="25.0" inverse="false"/>
+    <ShutterSpeed code="21" seconds="20.0" inverse="false"/>
+    <ShutterSpeed code="23" seconds="15.0" inverse="false"/>
+    <ShutterSpeed code="26" seconds="13.0" inverse="false"/>
+    <ShutterSpeed code="28" seconds="10.0" inverse="false"/>
+    <ShutterSpeed code="31" seconds="8.0" inverse="false"/>
+    <ShutterSpeed code="34" seconds="6.0" inverse="false"/>
+    <ShutterSpeed code="36" seconds="5.0" inverse="false"/>
+    <ShutterSpeed code="39" seconds="4.0" inverse="false"/>
+    <ShutterSpeed code="42" seconds="3.2" inverse="false"/>
+    <ShutterSpeed code="44" seconds="2.5" inverse="false"/>
+    <ShutterSpeed code="47" seconds="2.0" inverse="false"/>
+    <ShutterSpeed code="50" seconds="1.6" inverse="false"/>
+    <ShutterSpeed code="52" seconds="1.3" inverse="false"/>
+    <ShutterSpeed code="55" seconds="1.0" inverse="false"/>
+    <ShutterSpeed code="58" seconds="0.8" inverse="false"/>
+    <ShutterSpeed code="61" seconds="0.6" inverse="false"/>
+    <ShutterSpeed code="63" seconds="0.5" inverse="false"/>
+    <ShutterSpeed code="66" seconds="0.4" inverse="false"/>
+    <ShutterSpeed code="68" seconds="0.3" inverse="false"/>
+    <ShutterSpeed code="71" seconds="0.25" inverse="false"/>
+    <ShutterSpeed code="74" seconds="0.2" inverse="false"/>
+    <ShutterSpeed code="76" seconds="6" inverse="true" />
+    <ShutterSpeed code="79" seconds="8" inverse="true"/>
+    <ShutterSpeed code="82" seconds="10" inverse="true"/>
+    <ShutterSpeed code="84" seconds="13" inverse="true"/>
+    <ShutterSpeed code="87" seconds="15" inverse="true"/>
+    <ShutterSpeed code="90" seconds="20" inverse="true"/>
+    <ShutterSpeed code="92" seconds="25" inverse="true"/>
+    <ShutterSpeed code="95" seconds="30" inverse="true"/>
+    <ShutterSpeed code="98" seconds="40" inverse="true"/>
+    <ShutterSpeed code="100" seconds="50" inverse="true"/>
+    <ShutterSpeed code="104" seconds="60" inverse="true"/>
+    <ShutterSpeed code="107" seconds="80" inverse="true"/>
+    <ShutterSpeed code="108" seconds="100" inverse="true"/>
+    <ShutterSpeed code="112" seconds="125" inverse="true"/>
+    <ShutterSpeed code="115" seconds="160" inverse="true"/>
+    <ShutterSpeed code="116" seconds="200" inverse="true"/>
+    <ShutterSpeed code="120" seconds="250" inverse="true"/>
+    <ShutterSpeed code="123" seconds="320" inverse="true"/>
+    <ShutterSpeed code="124" seconds="400" inverse="true"/>
+    <ShutterSpeed code="128" seconds="500" inverse="true"/>
+  </ShutterSpeeds>
+</Settings>
